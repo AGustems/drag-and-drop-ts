@@ -1,4 +1,3 @@
-
 // Validation logic
 export interface Validatable {
     value : string | number;
